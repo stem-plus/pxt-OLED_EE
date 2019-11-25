@@ -1,6 +1,6 @@
 {
-    "name": "OLED12864_I2C",
-    "version": "1.5.0",
+    "name": "OLED12864",
+    "version": "1.5.1",
     "description": "makecode I2C OLED 128 x 64 extension for micro:bit",
     "license": "MIT",
     "dependencies": {
