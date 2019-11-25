@@ -1,5 +1,5 @@
 {
-  "OLED12864_I2C": {
+  "OLED12864": {
     "visual": {
       "image": "parts/OLED12864_I2C.svg",
       "width": 82,
